@@ -5,7 +5,7 @@
 Ingeniero en Sistemas con más de 2 años de experiencia en desarrollo y análisis de datos. Mi pasión es transformar datos en información valiosa y crear soluciones efectivas utilizando herramientas de análisis avanzadas.
 
 🛠️ **Habilidades**  
-- **Lenguajes:** SQL, PL/SQL, C#, PHP  
+- **Lenguajes:** SQL, PL/SQL, C#, PHP, Kotlin  
 - **Herramientas:** Oracle Analytics Cloud, OBIEE, Informatica Power Center, GitLab  
 - **Bases de datos:** SQL Server, Oracle, AWS RDS  
 - **Frameworks:** Laravel, Spring Boot  
@@ -28,7 +28,8 @@ Actualmente, profundizando en servicios de Google Cloud Platform para optimizar 
 
 💡 **Proyectos personales**  
 - Aplicación de escritorio para gestión de inventario de insumos médicos utilizando C# y SQL Server 🏥  
-- API RESTful con Spring Boot y SQL Server para consultas optimizadas de datos ⚙️  
+- API RESTful con Spring Boot y SQL Server para consultas optimizadas de datos ⚙️
+- Aplicación móvil para llevar el control financiero personal 💰
 
 👾 **Intereses**  
 Siempre explorando nuevas tecnologías y metodologías para mejorar mis habilidades y conocimientos en el campo de la ingeniería de datos. ¡Listo para nuevos desafíos!
