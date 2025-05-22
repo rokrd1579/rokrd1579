@@ -23,7 +23,7 @@ Ingeniero en Sistemas con más de 2 años de experiencia en desarrollo y anális
   - Gestión de versiones y merges en GitLab 📂  
   - Diseño de API RESTful en Spring Boot para integración de datos 🌐
  
-- ** 🧑‍💻 Android Developer Jr – Kotlin**
+- **🧑‍💻 Android Developer Jr – Kotlin**
   - Desarrollo de app modular con navegación por **Fragments** y **tabs anidados** 📱  
   - Implementación de **menús flotantes animados (FAB)** y **tablas dinámicas con RecyclerView** 📊  
   - Diseño de **diálogos personalizados** con formularios interactivos y lógica condicional 🧩  
