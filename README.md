@@ -21,7 +21,14 @@ Ingeniero en Sistemas con más de 2 años de experiencia en desarrollo y anális
 - **Application Developer**  
   - Creación de scripts de prueba y pruebas de escritorio en entornos de BI 🧪  
   - Gestión de versiones y merges en GitLab 📂  
-  - Diseño de API RESTful en Spring Boot para integración de datos 🌐  
+  - Diseño de API RESTful en Spring Boot para integración de datos 🌐
+ 
+- ** 🧑‍💻 Android Developer Jr – Kotlin**
+  - Desarrollo de app modular con navegación por **Fragments** y **tabs anidados** 📱  
+  - Implementación de **menús flotantes animados (FAB)** y **tablas dinámicas con RecyclerView** 📊  
+  - Diseño de **diálogos personalizados** con formularios interactivos y lógica condicional 🧩  
+  - Consultas y estructuras para **análisis financiero en tiempo real** con Kotlin 📈  
+  - Adaptación UI a **temas claro/oscuro** siguiendo principios de **Material Design** 🎨  
 
 🌱 **Aprendiendo**  
 Actualmente, profundizando en servicios de Google Cloud Platform para optimizar procesos de ingeniería de datos en la nube ☁️🚀.
@@ -30,6 +37,8 @@ Actualmente, profundizando en servicios de Google Cloud Platform para optimizar 
 - Aplicación de escritorio para gestión de inventario de insumos médicos utilizando C# y SQL Server 🏥  
 - API RESTful con Spring Boot y SQL Server para consultas optimizadas de datos ⚙️
 - Aplicación móvil para llevar el control financiero personal 💰
+
+
 
 👾 **Intereses**  
 Siempre explorando nuevas tecnologías y metodologías para mejorar mis habilidades y conocimientos en el campo de la ingeniería de datos. ¡Listo para nuevos desafíos!
